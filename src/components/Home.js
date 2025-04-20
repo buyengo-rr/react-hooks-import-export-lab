@@ -9,3 +9,5 @@ function Home() {
     </div>
   );
 }
+export default Home
+import { username,image,city } from "../data/user";
